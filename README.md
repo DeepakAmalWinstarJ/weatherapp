@@ -2,10 +2,6 @@ Great! Creating a unique and well-structured README.md file for your GitHub repo
 
 ---
 
-# Weather App
-
-![Weather App Screenshot](path_to_your_screenshot.png)
-
 ## Overview
 
 Welcome to my Weather App! This project is my first venture into the world of JavaScript, and I'm excited to share it with you. The app provides real-time weather information for any city you search for, showcasing my newly acquired skills in web development.
